@@ -1,4 +1,4 @@
-# Space Particle Hand Tracking Effect
+# ICE-FIRE Particle Hand Tracking Effect
 
 An interactive, real-time computer vision application that assigns "Fire" and "Ice" particle effects to your hands using your webcam.
 
